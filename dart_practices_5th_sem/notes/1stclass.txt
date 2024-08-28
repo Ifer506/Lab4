@@ -1,0 +1,20 @@
+always use naming convention for easier reading
+
+Camel Case : class name  ==>HelloWorld  
+Pascal case : variable/function ==> fName
+snake case : file name ==> first_file.dart
+
+dart is developer orianted i.e is easier for developers
+
+reprsesent the data from the begining do not make a new variable in the middle
+
+input 
+algotithm
+
+
+type inference  === interprete what kind/ type of variable is it
+
+just in time
+ahead of time
+
+overloading = same name different signature
